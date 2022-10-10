@@ -1,0 +1,2 @@
+#!/bin/bsh
+find . -empty -printf "%f\n"
